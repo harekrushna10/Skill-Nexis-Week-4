@@ -120,11 +120,7 @@ npm run dev
 
 Open the URL printed by Vite, usually `http://localhost:5173`.
 
-## Demo administrator
-If you did not set custom admin values before running the seed script:
 
-- Email: `admin@shopsphere.local`
-- Password: `Admin@12345`
 
 Run `npm run seed` again after changing the admin values in `.env` to update the seeded admin account. Never commit `.env`.
 
